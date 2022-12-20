@@ -1,0 +1,25 @@
+
+#img-1{
+    height: 600px;
+    object-fit: cover;
+}
+#img-2{
+    height: 600px;
+    object-fit: cover;
+}
+#img-3{
+    height: 600px;
+    object-fit: cover;
+}
+.swiper{
+    position:absolute;
+    bottom: 10rem;
+}
+.half{
+    position:relative ;
+    bottom: 100px;
+    z-index: 1;
+}
+.btn{
+ background-color: rgb(94, 54, 94);
+}
